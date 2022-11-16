@@ -18,7 +18,7 @@
         <pitest.version>1.5.2</pitest.version>
         <restassured.version>4.3.0</restassured.version>
         <wiremock.version>2.26.3</wiremock.version>
-        <jackson.databind.version>2.9.10.5</jackson.databind.version>
+        <jackson.databind.version>2.12.7.1</jackson.databind.version>
         <selenium.webdriver.version>3.141.59</selenium.webdriver.version>
         <slf4j.version>1.7.30</slf4j.version>
         <lombok.version>1.18.12</lombok.version>
